@@ -36,7 +36,7 @@ Example:
 </script>
 ```
 description:
-name: tooltip name for the desired logo
+name: tooltip name for the desired logo,
 png: location for the logos
 
 The plugin hava a fallback logo so it still runs if none of your own logos are specified:
