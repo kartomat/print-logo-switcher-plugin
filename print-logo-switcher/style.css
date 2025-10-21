@@ -1,0 +1,15 @@
+.o-print-logo-btn {
+  width: 34px !important;
+  height: 34px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.o-print-logo-btn img {
+  width: 70%;
+  height: 70%;
+  object-fit: contain;
+  display: block;
+  pointer-events: none;
+}
