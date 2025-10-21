@@ -1,10 +1,10 @@
-# Origo-print-logo-switcher
+# print-logo-switcher-plugin
 This is a simple plugin that allows you to change the print logo in your Origo map instance.
 
 ## To use:
 1. Clone
 ```bash
-Git clone https://github.com/avalna/Origo-print-logo-switcher
+Git clone https://github.com/kartomat/print-logo-switcher-plugin.git
 ```
 2. Place the folder in your plugins folder or other appropriate location
 3. Refer to the plugin and its file in your index.html
